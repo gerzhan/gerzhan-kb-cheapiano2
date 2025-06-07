@@ -33,6 +33,7 @@
 
 ## TODO (PLANS)
 
-- реализовать собственную прошику
+- реализовать собственную прошику (qmk)
+  - video [How To Program Your Keyboard With Code Instead Of QMK Configurator](https://www.youtube.com/watch?v=AA8fw2MbpYg)  
 - реализовать модификацию версии на основании личного опыта
 - использовать раскладку на беспроводной клавиатуре (типа Ferris)
