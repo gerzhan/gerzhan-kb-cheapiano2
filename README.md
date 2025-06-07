@@ -21,8 +21,15 @@
 ## Раскладка и слои 
 
 Для отладки и наглядной визуализации использован инструмент [keymap-drawer](https://keymap-drawer.streamlit.app/)
+
 Для ручной настройки без перепрошивки использован web интерфейс [Vial](https://vial.rocks/ )
 
+## Инструкции
+
+### Формирование файла keymap.json 
+
+- взять за основу пример раскладки [qmk_firmware/blob/cheapino/keyboards/cheapino/keymaps/](https://github.com/tompi/qmk_firmware/blob/cheapino/keyboards/cheapino/keymaps/lars/keymap.json)
+- 
 
 ## TODO (PLANS)
 
